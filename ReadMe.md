@@ -96,7 +96,7 @@ Click the 'Run Button'
 
 Download and install [Node.js](http://nodejs/org)
 
-If you just want to do things with a plain old editor like Sublime and command line and run locally, clone this repository navigate to the repository and do:
+If you just want to do things with a plain old editor like Sublime and command line and run locally, clone this repository navigate to the repository and do: 
 
 ```bash
 cd ./StartProject
@@ -415,7 +415,6 @@ The last piece we need is to create a new view template **recipes.jade** file un
 Your views folder should look like this now:
 
 ![](ScreenShots/ss12.png)
-
 
 Let's go back and take a look at **data/recipeData.js**:
 ```js
