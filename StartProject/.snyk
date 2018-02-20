@@ -8,3 +8,6 @@ patch:
         patched: '2018-02-20T21:25:31.785Z'
     - jade > transformers > uglify-js:
         patched: '2018-02-20T21:25:31.785Z'
+  'npm:uglify-js:20150824':
+    - jade > transformers > uglify-js:
+        patched: '2018-02-20T21:27:20.066Z'
